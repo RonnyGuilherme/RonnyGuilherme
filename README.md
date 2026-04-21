@@ -63,7 +63,3 @@ Projeto futuro para leitura, parsing e processamento de arquivos no padrão CNAB
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ronny-guilherme-b1ab16218)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronny.guilherme@hotmail.com)
-
----
-
-⭐️ Créditos do template inspirado em [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
