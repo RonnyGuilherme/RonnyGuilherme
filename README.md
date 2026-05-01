@@ -15,8 +15,10 @@ Sistema de análise antifraude com Spring Boot, Kafka e padrão Strategy. A API 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGuilherme&repo=antifraude-spring-boot&theme=default)](https://github.com/RonnyGuilherme/antifraude-spring-boot)
 
-#### 📊 Processador de CNAB (Em breve)
-Projeto futuro para leitura, parsing e processamento de arquivos no padrão CNAB (240 e 400), com validação de registros, conciliação financeira e exportação de dados estruturados. Uma solução focada no ecossistema bancário brasileiro.
+#### 📊 Processador de CNAB
+API REST para processamento de arquivos bancários **CNAB 240** e **CNAB 400** (padrão FEBRABAN). Projeto de portfólio que demonstra **Clean Architecture, Spring Batch, Testcontainers e observabilidade** com Prometheus/Grafana.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGuilherme&repo=cnab-processor&theme=default)](https://github.com/RonnyGuilherme/cnab-processor)
 
 ---
 
@@ -25,18 +27,26 @@ Projeto futuro para leitura, parsing e processamento de arquivos no padrão CNAB
 #### Linguagens & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Mensageria & Banco de Dados
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![H2 Database](https://img.shields.io/badge/H2-004088?style=for-the-badge&logo=h2&logoColor=white)
 
-#### Ferramentas & Práticas
+#### DevOps & Observabilidade
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+#### Ferramentas & Práticas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
