@@ -13,13 +13,12 @@
 #### 🔐 Antifraude Spring Boot (Atual)
 Sistema de análise antifraude com Spring Boot, Kafka e padrão Strategy. A API recebe transações, processa de forma assíncrona e notifica em tempo real via WebSocket. Ideal para quem busca alta escalabilidade e baixo acoplamento.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGuilherme&repo=antifraude-spring-boot&theme=default)](https://github.com/RonnyGuilherme/antifraude-spring-boot)
+![GitHub Repo Card](https://githubcard.com/RonnyGuilherme/antifraude-spring-boot.svg)
 
 #### 📊 Processador de CNAB
 API REST para processamento de arquivos bancários **CNAB 240** e **CNAB 400** (padrão FEBRABAN). Projeto de portfólio que demonstra **Clean Architecture, Spring Batch, Testcontainers e observabilidade** com Prometheus/Grafana.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGuilherme&repo=cnab-processor&theme=default)](https://github.com/RonnyGuilherme/cnab-processor)
-
+![GitHub Repo Card](https://githubcard.com/RonnyGuilherme/cnab-processor.svg)
 ---
 
 ### 🛠️ Habilidades
