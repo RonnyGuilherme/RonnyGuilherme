@@ -13,12 +13,12 @@
 #### 🔐 Antifraude Spring Boot (Atual)
 Sistema de análise antifraude com Spring Boot, Kafka e padrão Strategy. A API recebe transações, processa de forma assíncrona e notifica em tempo real via WebSocket. Ideal para quem busca alta escalabilidade e baixo acoplamento.
 
-![GitHub Repo Card](https://githubcard.com/RonnyGuilherme/antifraude-spring-boot.svg)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=RonnyGuilherme&repo=antifraude-spring-boot)](https://github.com/RonnyGuilherme/antifraude-spring-boot)
 
 #### 📊 Processador de CNAB
 API REST para processamento de arquivos bancários **CNAB 240** e **CNAB 400** (padrão FEBRABAN). Projeto de portfólio que demonstra **Clean Architecture, Spring Batch, Testcontainers e observabilidade** com Prometheus/Grafana.
 
-![GitHub Repo Card](https://githubcard.com/RonnyGuilherme/cnab-processor.svg)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=RonnyGuilherme&repo=cnab-processor)](https://github.com/RonnyGuilherme/cnab-processor)
 ---
 
 ### 🛠️ Habilidades
@@ -53,8 +53,8 @@ API REST para processamento de arquivos bancários **CNAB 240** e **CNAB 400** (
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnyGuilherme&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyGuilherme&layout=compact&langs_count=7&theme=default"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=RonnyGuilherme&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RonnyGuilherme&layout=compact&langs_count=7&theme=default"/>
 </p>
 
 ---
